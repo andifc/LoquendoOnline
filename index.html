@@ -135,7 +135,7 @@
     <script>
         let DATA
 
-        loadJson('/data.json').then(data => {
+        loadJson('/LoquendoOnline/data.json').then(data => {
             if (data) {
                 DATA = data
                 loadLanguages()
@@ -143,7 +143,6 @@
                 console.log('No se pudo cargar el archivo JSON.')
             }
         })
-        console.log(DATA)
         function loadLanguages() {
             const langs = getAvailableLanguages(DATA)
             const select = document.getElementById('languageSelect')
@@ -235,5 +234,6 @@
         })
     </script>
 </body>
+
 
 </html>
