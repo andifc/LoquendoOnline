@@ -133,7 +133,9 @@
     <!-- SCRIPT -->
     <script src="./js/ttsSdk.js"></script>
     <script>
-        let DATA
+
+        document.addEventListener('DOMContentLoaded', function() {
+            let DATA
 
         loadJson('/LoquendoOnline/data.json').then(data => {
             if (data) {
@@ -174,7 +176,7 @@
             }
         })
 
-        document.getElementById('text-input').addEventListener('input', e => {
+        document.getElementById('text-input').addEventListener('input', (e) => {
             const limit = 600;
             let text = e.target.value;
 
@@ -232,8 +234,11 @@
                 msg.textContent = 'Error de conexión con el servidor.'
             }
         })
+
+});
     </script>
 </body>
 
 
 </html>
+
