@@ -234,14 +234,16 @@
             } catch (err) {
                 msg.textContent = 'Error de conexión con el servidor.'
             }
+            document.getElementById('generateBtn').classList.remove('is-loading')
         })
-     document.getElementById('generateBtn').classList.remove('is-loading')
+     
 });
     </script>
 </body>
 
 
 </html>
+
 
 
 
