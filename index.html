@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="light">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Generador de Voz Online</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" />
+    <style>
+        body {
+            background: #f9fafc;
+        }
+
+        .hero {
+            background: linear-gradient(120deg, #3b82f6, #9333ea);
+        }
+
+        .hero .title,
+        .hero .subtitle {
+            color: #fff;
+        }
+
+        .counter {
+            font-weight: bold;
+        }
+
+        .ad-box {
+            background: #fff;
+            border: 1px dashed #ccc;
+            padding: 1rem;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- HEADER -->
+    <section class="hero is-medium">
+        <div class="hero-body">
+            <div class="container has-text-centered">
+                <h1 class="title">🎙️ Loquendo.io</h1>
+                <h2 class="subtitle">
+                    Convierte texto en voz realista online (hasta 600 caracteres)
+                </h2>
+            </div>
+        </div>
+    </section>
+
+    <!-- MAIN -->
+    <section class="section">
+        <div class="container">
+            <div class="columns">
+                <!-- Formulario -->
+                <div class="column is-three-quarters">
+                    <div class="box">
+
+                        <!-- Idioma -->
+                        <div class="field">
+                            <label class="label">Idioma</label>
+                            <div class="control has-icons-left">
+                                <div class="select is-fullwidth">
+                                    <select id="languageSelect">
+                                        <option value="">Selecciona un idioma</option>
+                                    </select>
+                                </div>
+                                <span class="icon is-small is-left"><i class="fas fa-globe"></i></span>
+                            </div>
+                        </div>
+
+                        <!-- Voz -->
+                        <div class="field">
+                            <label class="label">Voz</label>
+                            <div class="control has-icons-left">
+                                <div class="select is-fullwidth">
+                                    <select id="voiceSelect" disabled>
+                                        <option>Selecciona primero un idioma</option>
+                                    </select>
+                                </div>
+                                <span class="icon is-small is-left"><i class="fas fa-microphone"></i></span>
+                            </div>
+                        </div>
+
+                        <!-- Texto -->
+                        <div class="field">
+                            <label class="label">Texto</label>
+                            <textarea id="textInput" class="textarea" rows="6"
+                                placeholder="Escribe tu texto aquí..."></textarea>
+                            <p id="charCount" class="help counter">0 / 600 caracteres</p>
+                        </div>
+
+                        <!-- Botón -->
+                        <div
+                            class="field has-text-centered is-flex is-justify-content-space-between is-align-items-center is-flex-wrap-wrap-reverse">
+                            <button id="generateBtn" class="button is-light is-medium is-rounded">
+                                <span class="icon"><i class="fas fa-play"></i></span>
+                                <span>Generar Audio</span>
+                            </button>
+
+                            <audio id="audioPlayer" controls></audio>
+                        </div>
+
+                        <!-- Mensaje -->
+                        <p id="message" class="has-text-centered has-text-danger"></p>
+                    </div>
+                </div>
+
+                <!-- Publicidad / Sidebar -->
+                <div class="column">
+                    <div class="ad-box mb-4">
+                        <p><strong>Publicidad 300x250</strong></p>
+                        <img src="https://via.placeholder.com/300x250" alt="Anuncio" />
+                    </div>
+                    <div class="ad-box">
+                        <p><strong>Publicidad 160x600</strong></p>
+                        <img src="https://via.placeholder.com/160x600" alt="Anuncio" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="footer has-background-dark has-text-light">
+        <div class="content has-text-centered">
+            <p>
+                <strong class="has-text-white">Loquendo Online</strong> © 2025 - Todos los
+                derechos reservados.
+            </p>
+        </div>
+    </footer>
+
+    <!-- SCRIPT -->
+    <script src="./js/ttsSdk.js"></script>
+    <script>
+        let DATA
+
+        loadJson('/data.json').then(data => {
+            if (data) {
+                DATA = data
+                loadLanguages()
+            } else {
+                console.log('No se pudo cargar el archivo JSON.')
+            }
+        })
+        console.log(DATA)
+        function loadLanguages() {
+            const langs = getAvailableLanguages(DATA)
+            const select = document.getElementById('languageSelect')
+            langs.forEach(l => {
+                const opt = document.createElement('option')
+                opt.value = l.name
+                opt.textContent = l.name
+                select.appendChild(opt)
+            })
+        }
+
+        document.getElementById('languageSelect').addEventListener('change', e => {
+            const voices = getVoicesByLanguage(DATA, e.target.value)
+            const voiceSelect = document.getElementById('voiceSelect')
+            voiceSelect.innerHTML = ''
+            if (voices.length) {
+                voiceSelect.disabled = false
+                voices.forEach(v => {
+                    const opt = document.createElement('option')
+                    opt.value = v.name
+                    opt.textContent = `${v.name} (${v.gender})`
+                    voiceSelect.appendChild(opt)
+                })
+            } else {
+                voiceSelect.disabled = true
+                const opt = document.createElement('option')
+                opt.textContent = 'No hay voces disponibles'
+                voiceSelect.appendChild(opt)
+            }
+        })
+
+        document.getElementById('text-input').addEventListener('input', e => {
+            const limit = 600;
+            let text = e.target.value;
+
+            if (text.length > limit) {
+                // Trunca el texto al límite de caracteres
+                text = text.substring(0, limit);
+                // Actualiza el valor del textarea con el texto truncado
+                e.target.value = text;
+            }
+
+            const chars = text.length;
+            const counter = document.getElementById('charCount');
+
+            // Si 'charCount' no existe, lo creamos dinámicamente
+            if (!counter) {
+                const newCounter = document.createElement('span');
+                newCounter.id = 'charCount';
+                newCounter.classList.add('status');
+                document.querySelector('.container').appendChild(newCounter);
+                counter = newCounter;
+            }
+
+            counter.textContent = `${chars} / ${limit} caracteres`;
+            counter.classList.toggle('has-text-danger', chars > limit);
+        });
+
+        document.getElementById('generateBtn').addEventListener('click', async () => {
+            const voiceName = document.getElementById('voiceSelect').value
+            const text = document.getElementById('textInput').value
+            const msg = document.getElementById('message')
+            msg.textContent = ''
+
+            if (!voiceName || !text) {
+                msg.textContent = 'Debes seleccionar una voz y escribir texto.'
+                return
+            }
+
+            const voice = getVoiceByName(DATA, voiceName)
+            console.log(voice, voiceName)
+
+            if (!voice) {
+                msg.textContent = 'Voz no encontrada.'
+                return
+            }
+
+
+            try {
+                const blob = await generateAudio(voice.engine_id, voice.language_id, voice.voice_id, text)
+                const url = URL.createObjectURL(blob)
+                const player = document.querySelector('audio')
+                player.src = url
+
+
+            } catch (err) {
+                msg.textContent = 'Error de conexión con el servidor.'
+            }
+        })
+    </script>
+</body>
+
+</html>

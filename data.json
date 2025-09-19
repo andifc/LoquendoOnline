@@ -1,0 +1,2634 @@
+{
+  "3": {
+    "language_id": 27,
+    "name": "Arabic",
+    "limit": 600,
+    "txt": "يمكن للمرأة أن تخفي حبها لمدة أربعين عاما، ولكن غضبها حتى يوم واحد.",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/ArabLeague.jpg",
+    "placeholder": "يرجى كتابة النص الخاص بك وسوف أقول ذلك",
+    "voices": {
+      "Ahmad": {
+        "engine_id": "8",
+        "language_id": "27",
+        "voice_id": "2",
+        "voice_name": "Ahmad",
+        "voice_str": "7,27,2,&lt;prosody pitch=&quot;+35%&quot; rate=&quot;90%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "M"
+      },
+      "Amina": {
+        "engine_id": "7",
+        "language_id": "27",
+        "voice_id": "1",
+        "voice_name": "Amina",
+        "voice_str": "",
+        "gender": "F"
+      },
+      "Aziza": {
+        "engine_id": "8",
+        "language_id": "27",
+        "voice_id": "1",
+        "voice_name": "Aziza",
+        "voice_str": "7,27,1,&lt;prosody pitch=&quot;+30%&quot; rate=&quot;85%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Jamal": {
+        "engine_id": "7",
+        "language_id": "27",
+        "voice_id": "2",
+        "voice_name": "Jamal",
+        "voice_str": "",
+        "gender": "M"
+      },
+      "Laila": {
+        "engine_id": "2",
+        "language_id": "27",
+        "voice_id": "2",
+        "voice_name": "Laila",
+        "voice_str": "Laila",
+        "gender": "F"
+      },
+      "Maged": {
+        "engine_id": "4",
+        "language_id": "27",
+        "voice_id": "1",
+        "voice_name": "Maged",
+        "voice_str": "Maged",
+        "gender": "M"
+      },
+      "Tarik": {
+        "engine_id": "2",
+        "language_id": "27",
+        "voice_id": "1",
+        "voice_name": "Tarik",
+        "voice_str": "Tarik",
+        "gender": "M"
+      }
+    }
+  },
+  "6": {
+    "language_id": 22,
+    "name": "Basque",
+    "limit": 600,
+    "txt": "Aberats izatea baino, izen ona hobe",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/Basque.jpg",
+    "placeholder": "Enter text in Basque",
+    "voices": {
+      "Arantxa": {
+        "engine_id": "4",
+        "language_id": "22",
+        "voice_id": "1",
+        "voice_name": "Arantxa",
+        "voice_str": "Arantxa",
+        "gender": "F"
+      }
+    }
+  },
+  "11": {
+    "language_id": 5,
+    "name": "Catalan",
+    "limit": 600,
+    "txt": "Jove xef, porti whisky amb quinze glaçons d'hidrogen, coi!",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/catalonian.jpg",
+    "placeholder": "Escriviu el vostre text i ho diré!",
+    "voices": {
+      "Empar (Valencian)": {
+        "engine_id": "2",
+        "language_id": "5",
+        "voice_id": "3",
+        "voice_name": "Empar (Valencian)",
+        "voice_str": "Empar",
+        "gender": "F"
+      },
+      "Jordi": {
+        "engine_id": "2",
+        "language_id": "5",
+        "voice_id": "2",
+        "voice_name": "Jordi",
+        "voice_str": "Jordi",
+        "gender": "M"
+      },
+      "Montserrat": {
+        "engine_id": "2",
+        "language_id": "5",
+        "voice_id": "1",
+        "voice_name": "Montserrat",
+        "voice_str": "Montserrat",
+        "gender": "F"
+      },
+      "Nuria": {
+        "engine_id": "4",
+        "language_id": "5",
+        "voice_id": "1",
+        "voice_name": "Nuria",
+        "voice_str": "Nuria",
+        "gender": "F"
+      }
+    }
+  },
+  "12": {
+    "language_id": 10,
+    "name": "Chinese",
+    "limit": 150,
+    "txt": "我国治肿瘤获重大突破",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/China.jpg",
+    "placeholder": "请输入您的文字，我会说出来！",
+    "voices": {
+      "Chan (HK Cantonese)": {
+        "engine_id": "7",
+        "language_id": "10",
+        "voice_id": "4",
+        "voice_name": "Chan (HK Cantonese)",
+        "voice_str": "",
+        "gender": "M"
+      },
+      "Chia-hao (Taiwanese)": {
+        "engine_id": "7",
+        "language_id": "10",
+        "voice_id": "2",
+        "voice_name": "Chia-hao (Taiwanese)",
+        "voice_str": "",
+        "gender": "M"
+      },
+      "Chia-ling (Taiwanese)": {
+        "engine_id": "7",
+        "language_id": "10",
+        "voice_id": "1",
+        "voice_name": "Chia-ling (Taiwanese)",
+        "voice_str": "",
+        "gender": "F"
+      },
+      "Hin Lam (HK Cantonese)": {
+        "engine_id": "8",
+        "language_id": "10",
+        "voice_id": "5",
+        "voice_name": "Hin Lam (HK Cantonese)",
+        "voice_str": "7,10,3,&lt;prosody pitch=&quot;+25%&quot; rate=&quot;82%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Hui (Mandarin)": {
+        "engine_id": "3",
+        "language_id": "10",
+        "voice_id": "3",
+        "voice_name": "Hui (Mandarin)",
+        "voice_str": "Hui",
+        "gender": "F"
+      },
+      "Kaho (HK Cantonese)": {
+        "engine_id": "3",
+        "language_id": "10",
+        "voice_id": "6",
+        "voice_name": "Kaho (HK Cantonese)",
+        "voice_str": "Kaho",
+        "gender": "M"
+      },
+      "Kayan (HK Cantonese)": {
+        "engine_id": "3",
+        "language_id": "10",
+        "voice_id": "7",
+        "voice_name": "Kayan (HK Cantonese)",
+        "voice_str": "Kayan",
+        "gender": "F"
+      },
+      "Kiang (Mandarin)": {
+        "engine_id": "3",
+        "language_id": "10",
+        "voice_id": "5",
+        "voice_name": "Kiang (Mandarin)",
+        "voice_str": "Qiang",
+        "gender": "M"
+      },
+      "Koeng Zai (HK Cantonese)": {
+        "engine_id": "8",
+        "language_id": "10",
+        "voice_id": "6",
+        "voice_name": "Koeng Zai (HK Cantonese)",
+        "voice_str": "7,10,4,&lt;prosody pitch=&quot;+42%&quot; rate=&quot;82%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "M"
+      },
+      "Liang (Mandarin)": {
+        "engine_id": "3",
+        "language_id": "10",
+        "voice_id": "4",
+        "voice_name": "Liang (Mandarin)",
+        "voice_str": "Liang",
+        "gender": "M"
+      },
+      "Linlin (Mandarin)": {
+        "engine_id": "2",
+        "language_id": "10",
+        "voice_id": "1",
+        "voice_name": "Linlin (Mandarin)",
+        "voice_str": "Linlin",
+        "gender": "F"
+      },
+      "Lisheng (Mandarin)": {
+        "engine_id": "2",
+        "language_id": "10",
+        "voice_id": "2",
+        "voice_name": "Lisheng (Mandarin)",
+        "voice_str": "Lisheng",
+        "gender": "F"
+      },
+      "Na Na (Mandarin)": {
+        "engine_id": "8",
+        "language_id": "10",
+        "voice_id": "1",
+        "voice_name": "Na Na (Mandarin)",
+        "voice_str": "3,10,3,&lt;prosody pitch=&quot;+40%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Sin-Ji (Cantonese)": {
+        "engine_id": "4",
+        "language_id": "10",
+        "voice_id": "1",
+        "voice_name": "Sin-Ji (Cantonese)",
+        "voice_str": "Sin-Ji",
+        "gender": "F"
+      },
+      "Su Wei (Taiwanese)": {
+        "engine_id": "8",
+        "language_id": "10",
+        "voice_id": "3",
+        "voice_name": "Su Wei (Taiwanese)",
+        "voice_str": "7,10,1,&lt;prosody pitch=&quot;+27%&quot; rate=&quot;82%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Ting-Ting (Mandarin)": {
+        "engine_id": "4",
+        "language_id": "10",
+        "voice_id": "4",
+        "voice_name": "Ting-Ting (Mandarin)",
+        "voice_str": "Ting-Ting",
+        "gender": "F"
+      },
+      "Xiao Kai (Mandarin)": {
+        "engine_id": "8",
+        "language_id": "10",
+        "voice_id": "2",
+        "voice_name": "Xiao Kai (Mandarin)",
+        "voice_str": "3,10,4,&lt;prosody pitch=&quot;+57%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "M"
+      },
+      "Ya-Ling (Taiwanese)": {
+        "engine_id": "4",
+        "language_id": "10",
+        "voice_id": "2",
+        "voice_name": "Ya-Ling (Taiwanese)",
+        "voice_str": "Ya-Ling",
+        "gender": "F"
+      },
+      "Yafang (Taiwanese)": {
+        "engine_id": "3",
+        "language_id": "10",
+        "voice_id": "8",
+        "voice_name": "Yafang (Taiwanese)",
+        "voice_str": "Yafang",
+        "gender": "F"
+      },
+      "Yan (HK Cantonese)": {
+        "engine_id": "7",
+        "language_id": "10",
+        "voice_id": "3",
+        "voice_name": "Yan (HK Cantonese)",
+        "voice_str": "",
+        "gender": "F"
+      },
+      "Yu Ting (Taiwanese)": {
+        "engine_id": "8",
+        "language_id": "10",
+        "voice_id": "4",
+        "voice_name": "Yu Ting (Taiwanese)",
+        "voice_str": "7,10,2,&lt;prosody pitch=&quot;+45%&quot; rate=&quot;82%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "M"
+      }
+    }
+  },
+  "14": {
+    "language_id": 18,
+    "name": "Czech",
+    "limit": 600,
+    "txt": "Jablko nepadá daleko od stromu.",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/CzechRepublic.jpg",
+    "placeholder": "Enter text in Czech",
+    "voices": {
+      "Gabrielka": {
+        "engine_id": "8",
+        "language_id": "18",
+        "voice_id": "1",
+        "voice_name": "Gabrielka",
+        "voice_str": "7,18,1,&lt;prosody pitch=&quot;+50%&quot; rate=&quot;slow&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Pavla": {
+        "engine_id": "7",
+        "language_id": "18",
+        "voice_id": "1",
+        "voice_name": "Pavla",
+        "voice_str": "cs-CZ-Standard-A",
+        "gender": "F"
+      },
+      "Zuzana": {
+        "engine_id": "4",
+        "language_id": "18",
+        "voice_id": "1",
+        "voice_name": "Zuzana",
+        "voice_str": "Zuzana",
+        "gender": "F"
+      }
+    }
+  },
+  "15": {
+    "language_id": 19,
+    "name": "Danish",
+    "limit": 600,
+    "txt": "Den der ler sidst ler bedst.",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/Denmark.jpg",
+    "placeholder": "Skriv venligst din tekst, og jeg vil sige det!",
+    "voices": {
+      "Dagny": {
+        "engine_id": "7",
+        "language_id": "19",
+        "voice_id": "1",
+        "voice_name": "Dagny",
+        "voice_str": "",
+        "gender": "F"
+      },
+      "Erik": {
+        "engine_id": "7",
+        "language_id": "19",
+        "voice_id": "2",
+        "voice_name": "Erik",
+        "voice_str": "da-DK-Standard-C",
+        "gender": "M"
+      },
+      "Frida": {
+        "engine_id": "2",
+        "language_id": "19",
+        "voice_id": "1",
+        "voice_name": "Frida",
+        "voice_str": "Frida",
+        "gender": "F"
+      },
+      "Ida": {
+        "engine_id": "4",
+        "language_id": "19",
+        "voice_id": "1",
+        "voice_name": "Ida",
+        "voice_str": "Ida",
+        "gender": "F"
+      },
+      "Janne": {
+        "engine_id": "8",
+        "language_id": "19",
+        "voice_id": "1",
+        "voice_name": "Janne",
+        "voice_str": "7,19,1,&lt;prosody pitch=&quot;+45%&quot; rate=&quot;80%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Magnus": {
+        "engine_id": "2",
+        "language_id": "19",
+        "voice_id": "2",
+        "voice_name": "Magnus",
+        "voice_str": "Magnus",
+        "gender": "M"
+      }
+    }
+  },
+  "16": {
+    "language_id": 11,
+    "name": "Dutch",
+    "limit": 600,
+    "txt": "Lex bederft Uw quiz met typisch vakjargon",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/Netherlands.jpg",
+    "placeholder": "Typ alstublieft uw tekst en ik zal het zeggen!",
+    "voices": {
+      "Alida": {
+        "engine_id": "8",
+        "language_id": "11",
+        "voice_id": "1",
+        "voice_name": "Alida",
+        "voice_str": "7,11,1,&lt;prosody pitch=&quot;+30%&quot; rate=&quot;82%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Claire": {
+        "engine_id": "4",
+        "language_id": "11",
+        "voice_id": "2",
+        "voice_name": "Claire",
+        "voice_str": "Claire",
+        "gender": "F"
+      },
+      "Dirk": {
+        "engine_id": "7",
+        "language_id": "11",
+        "voice_id": "2",
+        "voice_name": "Dirk",
+        "voice_str": "nl-NL-Standard-C",
+        "gender": "M"
+      },
+      "Ellen (Belgian)": {
+        "engine_id": "4",
+        "language_id": "11",
+        "voice_id": "1",
+        "voice_name": "Ellen (Belgian)",
+        "voice_str": "Ellen",
+        "gender": "F"
+      },
+      "Famke": {
+        "engine_id": "7",
+        "language_id": "11",
+        "voice_id": "1",
+        "voice_name": "Famke",
+        "voice_str": "",
+        "gender": "F"
+      },
+      "Saskia": {
+        "engine_id": "2",
+        "language_id": "11",
+        "voice_id": "2",
+        "voice_name": "Saskia",
+        "voice_str": "Saskia",
+        "gender": "F"
+      },
+      "Willem": {
+        "engine_id": "2",
+        "language_id": "11",
+        "voice_id": "1",
+        "voice_name": "Willem",
+        "voice_str": "Willem",
+        "gender": "M"
+      },
+      "Xander": {
+        "engine_id": "4",
+        "language_id": "11",
+        "voice_id": "4",
+        "voice_name": "Xander",
+        "voice_str": "Xander",
+        "gender": "M"
+      }
+    }
+  },
+  "17": {
+    "language_id": 1,
+    "name": "English",
+    "limit": 600,
+    "txt": "The rain in Spain stays mainly in the plain",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/Us-Uk.jpg",
+    "placeholder": "Please type your text and I will say it!",
+    "voices": {
+      "Alan (Australian)": {
+        "engine_id": "2",
+        "language_id": "1",
+        "voice_id": "9",
+        "voice_name": "Alan (Australian)",
+        "voice_str": "Alan",
+        "gender": "M"
+      },
+      "Allison (US)": {
+        "engine_id": "2",
+        "language_id": "1",
+        "voice_id": "7",
+        "voice_name": "Allison (US)",
+        "voice_str": "Allison",
+        "gender": "F"
+      },
+      "Ashley (US)": {
+        "engine_id": "3",
+        "language_id": "1",
+        "voice_id": "6",
+        "voice_name": "Ashley (US)",
+        "voice_str": "Ashley",
+        "gender": "F"
+      },
+      "Becky (US)": {
+        "engine_id": "8",
+        "language_id": "1",
+        "voice_id": "1",
+        "voice_name": "Becky (US)",
+        "voice_str": "3,1,3,&lt;prosody pitch=&quot;+40%&quot; rate=&quot;-18%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Beth (US)": {
+        "engine_id": "3",
+        "language_id": "1",
+        "voice_id": "8",
+        "voice_name": "Beth (US)",
+        "voice_str": "Beth",
+        "gender": "F"
+      },
+      "Billy (US)": {
+        "engine_id": "8",
+        "language_id": "1",
+        "voice_id": "2",
+        "voice_name": "Billy (US)",
+        "voice_str": "3,1,2,&lt;prosody pitch=&quot;+100%&quot; rate=&quot;-18%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "M"
+      },
+      "Brenda (US)": {
+        "engine_id": "7",
+        "language_id": "1",
+        "voice_id": "7",
+        "voice_name": "Brenda (US)",
+        "voice_str": "",
+        "gender": "F"
+      },
+      "Bridget (UK)": {
+        "engine_id": "3",
+        "language_id": "1",
+        "voice_id": "4",
+        "voice_name": "Bridget (UK)",
+        "voice_str": "Bridget",
+        "gender": "F"
+      },
+      "Catherine (UK)": {
+        "engine_id": "2",
+        "language_id": "1",
+        "voice_id": "6",
+        "voice_name": "Catherine (UK)",
+        "voice_str": "Kate",
+        "gender": "F"
+      },
+      "Choirboy I": {
+        "engine_id": "6",
+        "language_id": "1",
+        "voice_id": "20",
+        "voice_name": "Choirboy I",
+        "voice_str": "Choirboy",
+        "gender": "M"
+      },
+      "Choirboy II": {
+        "engine_id": "6",
+        "language_id": "1",
+        "voice_id": "21",
+        "voice_name": "Choirboy II",
+        "voice_str": "ChoirboyDex",
+        "gender": "M"
+      },
+      "Colossus": {
+        "engine_id": "6",
+        "language_id": "1",
+        "voice_id": "10",
+        "voice_name": "Colossus",
+        "voice_str": "Colossus",
+        "gender": "M"
+      },
+      "Crisper": {
+        "engine_id": "6",
+        "language_id": "1",
+        "voice_id": "13",
+        "voice_name": "Crisper",
+        "voice_str": "CrispMale",
+        "gender": "M"
+      },
+      "Daniel (UK)": {
+        "engine_id": "4",
+        "language_id": "1",
+        "voice_id": "5",
+        "voice_name": "Daniel (UK)",
+        "voice_str": "Daniel",
+        "gender": "M"
+      },
+      "Dave (US)": {
+        "engine_id": "2",
+        "language_id": "1",
+        "voice_id": "2",
+        "voice_name": "Dave (US)",
+        "voice_str": "Dave",
+        "gender": "M"
+      },
+      "Elizabeth (UK)": {
+        "engine_id": "2",
+        "language_id": "1",
+        "voice_id": "4",
+        "voice_name": "Elizabeth (UK)",
+        "voice_str": "Elizabeth",
+        "gender": "F"
+      },
+      "Fast Fred": {
+        "engine_id": "6",
+        "language_id": "1",
+        "voice_id": "15",
+        "voice_name": "Fast Fred",
+        "voice_str": "FastFred",
+        "gender": "M"
+      },
+      "Fiona (Scottish)": {
+        "engine_id": "4",
+        "language_id": "1",
+        "voice_id": "12",
+        "voice_name": "Fiona (Scottish)",
+        "voice_str": "Fiona",
+        "gender": "F"
+      },
+      "Giant": {
+        "engine_id": "6",
+        "language_id": "1",
+        "voice_id": "2",
+        "voice_name": "Giant",
+        "voice_str": "GiantMale",
+        "gender": "M"
+      },
+      "Gilbert (UK)": {
+        "engine_id": "7",
+        "language_id": "1",
+        "voice_id": "9",
+        "voice_name": "Gilbert (UK)",
+        "voice_str": "",
+        "gender": "M"
+      },
+      "Grace (Australian)": {
+        "engine_id": "2",
+        "language_id": "1",
+        "voice_id": "10",
+        "voice_name": "Grace (Australian)",
+        "voice_str": "Grace",
+        "gender": "F"
+      },
+      "Hal (UK)": {
+        "engine_id": "8",
+        "language_id": "1",
+        "voice_id": "6",
+        "voice_name": "Hal (UK)",
+        "voice_str": "3,1,5,&lt;prosody pitch=&quot;+100%&quot; rate=&quot;-15%&quot;&gt;, &lt;/prosody&gt;",
+        "gender": "M"
+      },
+      "Hugh (UK)": {
+        "engine_id": "3",
+        "language_id": "1",
+        "voice_id": "5",
+        "voice_name": "Hugh (UK)",
+        "voice_str": "Hugh",
+        "gender": "M"
+      },
+      "James (US)": {
+        "engine_id": "3",
+        "language_id": "1",
+        "voice_id": "7",
+        "voice_name": "James (US)",
+        "voice_str": "James",
+        "gender": "M"
+      },
+      "Jill (US)": {
+        "engine_id": "4",
+        "language_id": "1",
+        "voice_id": "2",
+        "voice_name": "Jill (US)",
+        "voice_str": "Jill",
+        "gender": "F"
+      },
+      "Julie (US)": {
+        "engine_id": "3",
+        "language_id": "1",
+        "voice_id": "3",
+        "voice_name": "Julie (US)",
+        "voice_str": "Julie",
+        "gender": "F"
+      },
+      "Karen (Australian)": {
+        "engine_id": "4",
+        "language_id": "1",
+        "voice_id": "4",
+        "voice_name": "Karen (Australian)",
+        "voice_str": "Karen",
+        "gender": "F"
+      },
+      "Kate (US)": {
+        "engine_id": "3",
+        "language_id": "1",
+        "voice_id": "1",
+        "voice_name": "Kate (US)",
+        "voice_str": "Kate",
+        "gender": "F"
+      },
+      "Lakshmi (Indian)": {
+        "engine_id": "7",
+        "language_id": "1",
+        "voice_id": "5",
+        "voice_name": "Lakshmi (Indian)",
+        "voice_str": "",
+        "gender": "F"
+      },
+      "Lee (Australian)": {
+        "engine_id": "4",
+        "language_id": "1",
+        "voice_id": "10",
+        "voice_name": "Lee (Australian)",
+        "voice_str": "Lee",
+        "gender": "M"
+      },
+      "Mandy (UK)": {
+        "engine_id": "8",
+        "language_id": "1",
+        "voice_id": "5",
+        "voice_name": "Mandy (UK)",
+        "voice_str": "3,1,4,&lt;prosody pitch=&quot;+40%&quot; rate=&quot;-18%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Martian": {
+        "engine_id": "6",
+        "language_id": "1",
+        "voice_id": "8",
+        "voice_name": "Martian",
+        "voice_str": "Martian",
+        "gender": "M"
+      },
+      "Matilda (Australian)": {
+        "engine_id": "7",
+        "language_id": "1",
+        "voice_id": "3",
+        "voice_name": "Matilda (Australian)",
+        "voice_str": "",
+        "gender": "F"
+      },
+      "Mellow Yellow I": {
+        "engine_id": "6",
+        "language_id": "1",
+        "voice_id": "11",
+        "voice_name": "Mellow Yellow I",
+        "voice_str": "MellowFemale",
+        "gender": "F"
+      },
+      "Milk Toast": {
+        "engine_id": "6",
+        "language_id": "1",
+        "voice_id": "18",
+        "voice_name": "Milk Toast",
+        "voice_str": "MilkToast",
+        "gender": "M"
+      },
+      "Moira (Irish)": {
+        "engine_id": "4",
+        "language_id": "1",
+        "voice_id": "8",
+        "voice_name": "Moira (Irish)",
+        "voice_str": "Moira",
+        "gender": "F"
+      },
+      "Munchkin": {
+        "engine_id": "6",
+        "language_id": "1",
+        "voice_id": "9",
+        "voice_name": "Munchkin",
+        "voice_str": "Munchkin",
+        "gender": "M"
+      },
+      "Nellie (UK)": {
+        "engine_id": "8",
+        "language_id": "1",
+        "voice_id": "7",
+        "voice_name": "Nellie (UK)",
+        "voice_str": "7,1,1,&lt;prosody pitch=&quot;+55%&quot; rate=&quot;82%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Nerd": {
+        "engine_id": "6",
+        "language_id": "1",
+        "voice_id": "17",
+        "voice_name": "Nerd",
+        "voice_str": "Nerd",
+        "gender": "M"
+      },
+      "Old Woman": {
+        "engine_id": "6",
+        "language_id": "1",
+        "voice_id": "6",
+        "voice_name": "Old Woman",
+        "voice_str": "OldWoman",
+        "gender": "F"
+      },
+      "Oliver (UK)": {
+        "engine_id": "7",
+        "language_id": "1",
+        "voice_id": "2",
+        "voice_name": "Oliver (UK)",
+        "voice_str": "en-GB-Standard-B",
+        "gender": "M"
+      },
+      "Olivia (UK)": {
+        "engine_id": "7",
+        "language_id": "1",
+        "voice_id": "1",
+        "voice_name": "Olivia (UK)",
+        "voice_str": "en-GB-Standard-F",
+        "gender": "F"
+      },
+      "Paul (US)": {
+        "engine_id": "3",
+        "language_id": "1",
+        "voice_id": "2",
+        "voice_name": "Paul (US)",
+        "voice_str": "Paul",
+        "gender": "M"
+      },
+      "Penny (US)": {
+        "engine_id": "8",
+        "language_id": "1",
+        "voice_id": "3",
+        "voice_name": "Penny (US)",
+        "voice_str": "7,1,7,&lt;prosody pitch=&quot;+55%&quot; rate=&quot;75%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Prashant (Indian)": {
+        "engine_id": "7",
+        "language_id": "1",
+        "voice_id": "6",
+        "voice_name": "Prashant (Indian)",
+        "voice_str": "en-IN-Standard-C",
+        "gender": "M"
+      },
+      "Robotoid": {
+        "engine_id": "6",
+        "language_id": "1",
+        "voice_id": "7",
+        "voice_name": "Robotoid",
+        "voice_str": "Robotoid",
+        "gender": "M"
+      },
+      "Samantha (US)": {
+        "engine_id": "4",
+        "language_id": "1",
+        "voice_id": "11",
+        "voice_name": "Samantha (US)",
+        "voice_str": "Samantha",
+        "gender": "F"
+      },
+      "Sangeeta (Indian)": {
+        "engine_id": "4",
+        "language_id": "1",
+        "voice_id": "9",
+        "voice_name": "Sangeeta (Indian)",
+        "voice_str": "Sangeeta",
+        "gender": "F"
+      },
+      "Serena (UK)": {
+        "engine_id": "4",
+        "language_id": "1",
+        "voice_id": "7",
+        "voice_name": "Serena (UK)",
+        "voice_str": "Serena",
+        "gender": "F"
+      },
+      "Simon (UK)": {
+        "engine_id": "2",
+        "language_id": "1",
+        "voice_id": "5",
+        "voice_name": "Simon (UK)",
+        "voice_str": "Simon",
+        "gender": "M"
+      },
+      "Steven (US)": {
+        "engine_id": "2",
+        "language_id": "1",
+        "voice_id": "8",
+        "voice_name": "Steven (US)",
+        "voice_str": "Steven",
+        "gender": "M"
+      },
+      "Susan (US)": {
+        "engine_id": "2",
+        "language_id": "1",
+        "voice_id": "1",
+        "voice_name": "Susan (US)",
+        "voice_str": "Susan",
+        "gender": "F"
+      },
+      "Tad (UK)": {
+        "engine_id": "8",
+        "language_id": "1",
+        "voice_id": "8",
+        "voice_name": "Tad (UK)",
+        "voice_str": "7,1,1,&lt;prosody pitch=&quot;+25%&quot; rate=&quot;85%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "M"
+      },
+      "Tessa (South African)": {
+        "engine_id": "4",
+        "language_id": "1",
+        "voice_id": "13",
+        "voice_name": "Tessa (South African)",
+        "voice_str": "Tessa",
+        "gender": "F"
+      },
+      "Tezza (AUS)": {
+        "engine_id": "8",
+        "language_id": "1",
+        "voice_id": "9",
+        "voice_name": "Tezza (AUS)",
+        "voice_str": "7,1,3,&lt;prosody pitch=&quot;+50%&quot; rate=&quot;90%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Tipsy": {
+        "engine_id": "6",
+        "language_id": "1",
+        "voice_id": "19",
+        "voice_name": "Tipsy",
+        "voice_str": "Tipsy",
+        "gender": "M"
+      },
+      "Tom (US)": {
+        "engine_id": "4",
+        "language_id": "1",
+        "voice_id": "3",
+        "voice_name": "Tom (US)",
+        "voice_str": "Tom",
+        "gender": "M"
+      },
+      "Troll": {
+        "engine_id": "6",
+        "language_id": "1",
+        "voice_id": "16",
+        "voice_name": "Troll",
+        "voice_str": "Troll",
+        "gender": "M"
+      },
+      "Veena (Indian)": {
+        "engine_id": "2",
+        "language_id": "1",
+        "voice_id": "11",
+        "voice_name": "Veena (Indian)",
+        "voice_str": "Veena",
+        "gender": "F"
+      }
+    }
+  },
+  "18": {
+    "language_id": 31,
+    "name": "Esperanto",
+    "limit": 600,
+    "txt": "Bonan nokton, bonan dormon!",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/Esperanto.jpg",
+    "placeholder": "Bonvolu tajpi vian tekston kaj mi diros ĝin!",
+    "voices": {
+      "Ludoviko": {
+        "engine_id": "2",
+        "language_id": "31",
+        "voice_id": "1",
+        "voice_name": "Ludoviko",
+        "voice_str": "Ludoviko",
+        "gender": "M"
+      }
+    }
+  },
+  "20": {
+    "language_id": 32,
+    "name": "Filipino",
+    "limit": 600,
+    "txt": "Lahat ng tao ay ipinanganak na malaya at pantay sa dignidad at karapatan. Sila ay pinagkalooban ng pangangatuwiran at budhi at dapat kumilos sa isat isa sa diwa ng kapatiran.",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/Philippines.jpg",
+    "placeholder": "Enter text in Filipino",
+    "voices": {
+      "Datu": {
+        "engine_id": "7",
+        "language_id": "32",
+        "voice_id": "2",
+        "voice_name": "Datu",
+        "voice_str": "fil-PH-Standard-D",
+        "gender": "M"
+      },
+      "Mayumi": {
+        "engine_id": "7",
+        "language_id": "32",
+        "voice_id": "1",
+        "voice_name": "Mayumi",
+        "voice_str": "",
+        "gender": "F"
+      },
+      "Naty": {
+        "engine_id": "8",
+        "language_id": "32",
+        "voice_id": "1",
+        "voice_name": "Naty",
+        "voice_str": "7,32,1,&lt;prosody pitch=&quot;+35%&quot; rate=&quot;80%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      }
+    }
+  },
+  "21": {
+    "language_id": 23,
+    "name": "Finnish",
+    "limit": 600,
+    "txt": "Minä osaan suomea",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/Finland.jpg",
+    "placeholder": "Kirjoita teksti ja sanon sen!",
+    "voices": {
+      "Marko": {
+        "engine_id": "2",
+        "language_id": "23",
+        "voice_id": "2",
+        "voice_name": "Marko",
+        "voice_str": "Mikko",
+        "gender": "M"
+      },
+      "Mikko": {
+        "engine_id": "4",
+        "language_id": "23",
+        "voice_id": "1",
+        "voice_name": "Mikko",
+        "voice_str": "Mikko",
+        "gender": "M"
+      },
+      "Milla": {
+        "engine_id": "2",
+        "language_id": "23",
+        "voice_id": "1",
+        "voice_name": "Milla",
+        "voice_str": "Milla",
+        "gender": "F"
+      },
+      "Ritu": {
+        "engine_id": "8",
+        "language_id": "23",
+        "voice_id": "1",
+        "voice_name": "Ritu",
+        "voice_str": "7,23,1,&lt;prosody pitch=&quot;+40%&quot; rate=&quot;70%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Sanna": {
+        "engine_id": "7",
+        "language_id": "23",
+        "voice_id": "1",
+        "voice_name": "Sanna",
+        "voice_str": "",
+        "gender": "F"
+      }
+    }
+  },
+  "22": {
+    "language_id": 4,
+    "name": "French",
+    "limit": 600,
+    "txt": "Portez ce whisky au vieux juge blond qui fume",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/France.jpg",
+    "placeholder": "S'il vous plaît tapez votre texte et je vais le dire!",
+    "voices": {
+      "Acelin": {
+        "engine_id": "8",
+        "language_id": "4",
+        "voice_id": "2",
+        "voice_name": "Acelin",
+        "voice_str": "3,4,4,&lt;prosody pitch=&quot;+100%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "M"
+      },
+      "Antoine": {
+        "engine_id": "7",
+        "language_id": "4",
+        "voice_id": "2",
+        "voice_name": "Antoine",
+        "voice_str": "fr-FR-Standard-D",
+        "gender": "M"
+      },
+      "Beatrice": {
+        "engine_id": "7",
+        "language_id": "4",
+        "voice_id": "1",
+        "voice_name": "Beatrice",
+        "voice_str": "",
+        "gender": "F"
+      },
+      "Bernard": {
+        "engine_id": "2",
+        "language_id": "4",
+        "voice_id": "2",
+        "voice_name": "Bernard",
+        "voice_str": "Bernard",
+        "gender": "M"
+      },
+      "Charlotte (Canadian)": {
+        "engine_id": "2",
+        "language_id": "4",
+        "voice_id": "5",
+        "voice_name": "Charlotte (Canadian)",
+        "voice_str": "Charlotte",
+        "gender": "F"
+      },
+      "Chloe (Canadian)": {
+        "engine_id": "3",
+        "language_id": "4",
+        "voice_id": "1",
+        "voice_name": "Chloe (Canadian)",
+        "voice_str": "Chloe",
+        "gender": "F"
+      },
+      "Felix (Canadian)": {
+        "engine_id": "4",
+        "language_id": "4",
+        "voice_id": "1",
+        "voice_name": "Felix (Canadian)",
+        "voice_str": "Felix",
+        "gender": "M"
+      },
+      "Florence": {
+        "engine_id": "2",
+        "language_id": "4",
+        "voice_id": "4",
+        "voice_name": "Florence",
+        "voice_str": "Florence",
+        "gender": "F"
+      },
+      "Francine": {
+        "engine_id": "8",
+        "language_id": "4",
+        "voice_id": "1",
+        "voice_name": "Francine",
+        "voice_str": "3,4,3,&lt;prosody pitch=&quot;+80%&quot; rate=&quot;-10%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Gaspard (Canadian)": {
+        "engine_id": "7",
+        "language_id": "4",
+        "voice_id": "4",
+        "voice_name": "Gaspard (Canadian)",
+        "voice_str": "",
+        "gender": "M"
+      },
+      "Jolie": {
+        "engine_id": "2",
+        "language_id": "4",
+        "voice_id": "3",
+        "voice_name": "Jolie",
+        "voice_str": "Juliette",
+        "gender": "F"
+      },
+      "Julie (Canadian)": {
+        "engine_id": "4",
+        "language_id": "4",
+        "voice_id": "2",
+        "voice_name": "Julie (Canadian)",
+        "voice_str": "Julie",
+        "gender": "F"
+      },
+      "Leo (Canadian)": {
+        "engine_id": "3",
+        "language_id": "4",
+        "voice_id": "2",
+        "voice_name": "Leo (Canadian)",
+        "voice_str": "Leo",
+        "gender": "M"
+      },
+      "Leonie (Canadian)": {
+        "engine_id": "7",
+        "language_id": "4",
+        "voice_id": "3",
+        "voice_name": "Leonie (Canadian)",
+        "voice_str": "",
+        "gender": "F"
+      },
+      "Louis": {
+        "engine_id": "3",
+        "language_id": "4",
+        "voice_id": "4",
+        "voice_name": "Louis",
+        "voice_str": "Louis",
+        "gender": "M"
+      },
+      "Nono (Canadian)": {
+        "engine_id": "8",
+        "language_id": "4",
+        "voice_id": "4",
+        "voice_name": "Nono (Canadian)",
+        "voice_str": "7,4,4,&lt;prosody pitch=&quot;+40%&quot; rate=&quot;80%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "M"
+      },
+      "Olivier (Canadian)": {
+        "engine_id": "2",
+        "language_id": "4",
+        "voice_id": "6",
+        "voice_name": "Olivier (Canadian)",
+        "voice_str": "Olivier",
+        "gender": "M"
+      },
+      "Roxane": {
+        "engine_id": "3",
+        "language_id": "4",
+        "voice_id": "3",
+        "voice_name": "Roxane",
+        "voice_str": "Roxane",
+        "gender": "F"
+      },
+      "Sebastien": {
+        "engine_id": "4",
+        "language_id": "4",
+        "voice_id": "3",
+        "voice_name": "Sebastien",
+        "voice_str": "Sebastien",
+        "gender": "M"
+      },
+      "Soso (Canadian)": {
+        "engine_id": "8",
+        "language_id": "4",
+        "voice_id": "3",
+        "voice_name": "Soso (Canadian)",
+        "voice_str": "7,4,3,&lt;prosody pitch=&quot;+35%&quot; rate=&quot;85%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Thomas": {
+        "engine_id": "4",
+        "language_id": "4",
+        "voice_id": "5",
+        "voice_name": "Thomas",
+        "voice_str": "Thomas",
+        "gender": "M"
+      },
+      "Virginie": {
+        "engine_id": "4",
+        "language_id": "4",
+        "voice_id": "4",
+        "voice_name": "Virginie",
+        "voice_str": "Virginie",
+        "gender": "F"
+      }
+    }
+  },
+  "24": {
+    "language_id": 15,
+    "name": "Galician",
+    "limit": 600,
+    "txt": "Meu dito meu feito",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/Galician.jpg",
+    "placeholder": "Por favor, escribe o teu texto e vou dicir!",
+    "voices": {
+      "Carmela": {
+        "engine_id": "2",
+        "language_id": "15",
+        "voice_id": "1",
+        "voice_name": "Carmela",
+        "voice_str": "Carmela",
+        "gender": "F"
+      }
+    }
+  },
+  "26": {
+    "language_id": 3,
+    "name": "German",
+    "limit": 600,
+    "txt": "Alle Menschen werden frei und gleich in Würde und Rechten geboren. Sie sind mit Vernunft und Gewissen ausgestattet und sollten im Geiste der Brüderlichkeit gegeneinander handeln",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/Germany.jpg",
+    "placeholder": "Bitte geben Sie Ihren Text ein und ich werde es sagen!",
+    "voices": {
+      "Anna": {
+        "engine_id": "4",
+        "language_id": "3",
+        "voice_id": "3",
+        "voice_name": "Anna",
+        "voice_str": "Anna",
+        "gender": "F"
+      },
+      "Hansel": {
+        "engine_id": "8",
+        "language_id": "3",
+        "voice_id": "2",
+        "voice_name": "Hansel",
+        "voice_str": "3,3,2,&lt;prosody pitch=&quot;+100%&quot; rate=&quot;+10%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "M"
+      },
+      "Heinz": {
+        "engine_id": "7",
+        "language_id": "3",
+        "voice_id": "2",
+        "voice_name": "Heinz",
+        "voice_str": "de-DE-Standard-B",
+        "gender": "M"
+      },
+      "Hilda": {
+        "engine_id": "7",
+        "language_id": "3",
+        "voice_id": "1",
+        "voice_name": "Hilda",
+        "voice_str": "",
+        "gender": "F"
+      },
+      "Katrin": {
+        "engine_id": "2",
+        "language_id": "3",
+        "voice_id": "3",
+        "voice_name": "Katrin",
+        "voice_str": "Katrin",
+        "gender": "F"
+      },
+      "Lena": {
+        "engine_id": "3",
+        "language_id": "3",
+        "voice_id": "1",
+        "voice_name": "Lena",
+        "voice_str": "Lena",
+        "gender": "F"
+      },
+      "Liese": {
+        "engine_id": "8",
+        "language_id": "3",
+        "voice_id": "1",
+        "voice_name": "Liese",
+        "voice_str": "7,3,1,&lt;prosody pitch=&quot;+35%&quot; rate=&quot;80%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Stefan": {
+        "engine_id": "2",
+        "language_id": "3",
+        "voice_id": "2",
+        "voice_name": "Stefan",
+        "voice_str": "Stefan",
+        "gender": "M"
+      },
+      "Steffi": {
+        "engine_id": "4",
+        "language_id": "3",
+        "voice_id": "1",
+        "voice_name": "Steffi",
+        "voice_str": "Steffi",
+        "gender": "F"
+      },
+      "Tim": {
+        "engine_id": "3",
+        "language_id": "3",
+        "voice_id": "2",
+        "voice_name": "Tim",
+        "voice_str": "Tim",
+        "gender": "M"
+      },
+      "Yannick": {
+        "engine_id": "4",
+        "language_id": "3",
+        "voice_id": "2",
+        "voice_name": "Yannick",
+        "voice_str": "Yannick",
+        "gender": "M"
+      }
+    }
+  },
+  "27": {
+    "language_id": 8,
+    "name": "Greek",
+    "limit": 600,
+    "txt": "Κάλλιο αργά, παρά ποτέ",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/Greece.jpg",
+    "placeholder": "Πληκτρολογήστε το κείμενό σας και θα το πω!",
+    "voices": {
+      "Afroditi": {
+        "engine_id": "2",
+        "language_id": "8",
+        "voice_id": "1",
+        "voice_name": "Afroditi",
+        "voice_str": "Afroditi",
+        "gender": "F"
+      },
+      "Alexandros": {
+        "engine_id": "4",
+        "language_id": "8",
+        "voice_id": "1",
+        "voice_name": "Alexandros",
+        "voice_str": "Alexandros",
+        "gender": "M"
+      },
+      "Eleni": {
+        "engine_id": "7",
+        "language_id": "8",
+        "voice_id": "1",
+        "voice_name": "Eleni",
+        "voice_str": "",
+        "gender": "F"
+      },
+      "Giorgos": {
+        "engine_id": "7",
+        "language_id": "8",
+        "voice_id": "2",
+        "voice_name": "Giorgos",
+        "voice_str": "",
+        "gender": "M"
+      },
+      "Mata": {
+        "engine_id": "8",
+        "language_id": "8",
+        "voice_id": "1",
+        "voice_name": "Mata",
+        "voice_str": "7,8,1,&lt;prosody pitch=&quot;+27%&quot; rate=&quot;85%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Nikos": {
+        "engine_id": "2",
+        "language_id": "8",
+        "voice_id": "3",
+        "voice_name": "Nikos",
+        "voice_str": "Nikos",
+        "gender": "M"
+      },
+      "Thodoris": {
+        "engine_id": "8",
+        "language_id": "8",
+        "voice_id": "2",
+        "voice_name": "Thodoris",
+        "voice_str": "7,8,2,&lt;prosody pitch=&quot;+35%&quot; rate=&quot;85%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "M"
+      }
+    }
+  },
+  "30": {
+    "language_id": 24,
+    "name": "Hindi",
+    "limit": 600,
+    "txt": "बच्चों को चलाने और पार्क में हँसते हैं",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/India.jpg",
+    "placeholder": "Enter text in Hindi",
+    "voices": {
+      "Anju": {
+        "engine_id": "8",
+        "language_id": "24",
+        "voice_id": "1",
+        "voice_name": "Anju",
+        "voice_str": "7,24,1,&lt;prosody pitch=&quot;+30%&quot; rate=&quot;85%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Karan": {
+        "engine_id": "7",
+        "language_id": "24",
+        "voice_id": "2",
+        "voice_name": "Karan",
+        "voice_str": "",
+        "gender": "M"
+      },
+      "Lekha": {
+        "engine_id": "4",
+        "language_id": "24",
+        "voice_id": "1",
+        "voice_name": "Lekha",
+        "voice_str": "Lekha",
+        "gender": "F"
+      },
+      "Raju": {
+        "engine_id": "8",
+        "language_id": "24",
+        "voice_id": "2",
+        "voice_name": "Raju",
+        "voice_str": "7,24,2,&lt;prosody pitch=&quot;+30%&quot; rate=&quot;80%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "M"
+      },
+      "Swathi": {
+        "engine_id": "7",
+        "language_id": "24",
+        "voice_id": "1",
+        "voice_name": "Swathi",
+        "voice_str": "",
+        "gender": "F"
+      }
+    }
+  },
+  "31": {
+    "language_id": 29,
+    "name": "Hungarian",
+    "limit": 600,
+    "txt": "Minden ember szabadon és egyenlő méltósággal és jogokkal születik. Ésszel és lelkiismerettel vannak felruházva, és a testvériség szellemében kell egymás felé cselekedniük",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/Hungary.jpg",
+    "placeholder": "Enter text in Hungarian",
+    "voices": {
+      "Erzsi": {
+        "engine_id": "8",
+        "language_id": "29",
+        "voice_id": "1",
+        "voice_name": "Erzsi",
+        "voice_str": "7,29,1,&lt;prosody pitch=&quot;+27%&quot; rate=&quot;85%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Eszter": {
+        "engine_id": "4",
+        "language_id": "29",
+        "voice_id": "1",
+        "voice_name": "Eszter",
+        "voice_str": "Eszter",
+        "gender": "F"
+      },
+      "Flora": {
+        "engine_id": "7",
+        "language_id": "29",
+        "voice_id": "1",
+        "voice_name": "Flora",
+        "voice_str": "",
+        "gender": "F"
+      },
+      "Robi": {
+        "engine_id": "8",
+        "language_id": "29",
+        "voice_id": "2",
+        "voice_name": "Robi",
+        "voice_str": "7,29,2,&lt;prosody pitch=&quot;+20%&quot; rate=&quot;85%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "M"
+      }
+    }
+  },
+  "33": {
+    "language_id": 28,
+    "name": "Indonesian",
+    "limit": 600,
+    "txt": "Semua manusia dilahirkan merdeka dan memiliki martabat dan hak yang sama. Mereka diberkahi dengan akal dan hati nurani dan harus bertindak terhadap satu sama lain dalam semangat persaudaraan",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/Indonezia.jpg",
+    "placeholder": "Enter text in Indonesian",
+    "voices": {
+      "Bintang": {
+        "engine_id": "7",
+        "language_id": "28",
+        "voice_id": "2",
+        "voice_name": "Bintang",
+        "voice_str": "id-ID-Standard-C",
+        "gender": "M"
+      },
+      "Damayanti": {
+        "engine_id": "4",
+        "language_id": "28",
+        "voice_id": "1",
+        "voice_name": "Damayanti",
+        "voice_str": "Damayanti",
+        "gender": "F"
+      },
+      "Ica": {
+        "engine_id": "8",
+        "language_id": "28",
+        "voice_id": "1",
+        "voice_name": "Ica",
+        "voice_str": "7,28,1,&lt;prosody pitch=&quot;+40%&quot; rate=&quot;80%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Putri": {
+        "engine_id": "7",
+        "language_id": "28",
+        "voice_id": "1",
+        "voice_name": "Putri",
+        "voice_str": "",
+        "gender": "F"
+      }
+    }
+  },
+  "35": {
+    "language_id": 7,
+    "name": "Italian",
+    "limit": 600,
+    "txt": "Quel vituperabile xenofobo zelante assaggia il whisky ed esclama: alleluja!",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/Italy.jpg",
+    "placeholder": "Per favore scrivi il tuo testo e lo dirò!",
+    "voices": {
+      "Alessandro": {
+        "engine_id": "7",
+        "language_id": "7",
+        "voice_id": "2",
+        "voice_name": "Alessandro",
+        "voice_str": "it-IT-Standard-D",
+        "gender": "M"
+      },
+      "Bianca": {
+        "engine_id": "7",
+        "language_id": "7",
+        "voice_id": "1",
+        "voice_name": "Bianca",
+        "voice_str": "",
+        "gender": "F"
+      },
+      "Elisa": {
+        "engine_id": "3",
+        "language_id": "7",
+        "voice_id": "1",
+        "voice_name": "Elisa",
+        "voice_str": "Elisa",
+        "gender": "F"
+      },
+      "Federica": {
+        "engine_id": "2",
+        "language_id": "7",
+        "voice_id": "10",
+        "voice_name": "Federica",
+        "voice_str": "Federica",
+        "gender": "F"
+      },
+      "Giulia": {
+        "engine_id": "2",
+        "language_id": "7",
+        "voice_id": "9",
+        "voice_name": "Giulia",
+        "voice_str": "Giulia",
+        "gender": "F"
+      },
+      "Luca": {
+        "engine_id": "2",
+        "language_id": "7",
+        "voice_id": "5",
+        "voice_name": "Luca",
+        "voice_str": "Luca",
+        "gender": "M"
+      },
+      "Marcello": {
+        "engine_id": "2",
+        "language_id": "7",
+        "voice_id": "6",
+        "voice_name": "Marcello",
+        "voice_str": "Marcello",
+        "gender": "M"
+      },
+      "Matteo": {
+        "engine_id": "2",
+        "language_id": "7",
+        "voice_id": "8",
+        "voice_name": "Matteo",
+        "voice_str": "Matteo",
+        "gender": "M"
+      },
+      "Paola": {
+        "engine_id": "2",
+        "language_id": "7",
+        "voice_id": "1",
+        "voice_name": "Paola",
+        "voice_str": "Paola",
+        "gender": "F"
+      },
+      "Paolo": {
+        "engine_id": "4",
+        "language_id": "7",
+        "voice_id": "1",
+        "voice_name": "Paolo",
+        "voice_str": "Paolo",
+        "gender": "M"
+      },
+      "Pina": {
+        "engine_id": "8",
+        "language_id": "7",
+        "voice_id": "1",
+        "voice_name": "Pina",
+        "voice_str": "7,7,1,&lt;prosody pitch=&quot;+45%&quot; rate=&quot;85%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Raffaele": {
+        "engine_id": "2",
+        "language_id": "7",
+        "voice_id": "7",
+        "voice_name": "Raffaele",
+        "voice_str": "Roberto",
+        "gender": "M"
+      },
+      "Roberto": {
+        "engine_id": "3",
+        "language_id": "7",
+        "voice_id": "2",
+        "voice_name": "Roberto",
+        "voice_str": "Roberto",
+        "gender": "M"
+      },
+      "Silvana": {
+        "engine_id": "2",
+        "language_id": "7",
+        "voice_id": "2",
+        "voice_name": "Silvana",
+        "voice_str": "Silvana",
+        "gender": "F"
+      },
+      "Silvia": {
+        "engine_id": "4",
+        "language_id": "7",
+        "voice_id": "2",
+        "voice_name": "Silvia",
+        "voice_str": "Silvia",
+        "gender": "F"
+      },
+      "Tonio": {
+        "engine_id": "8",
+        "language_id": "7",
+        "voice_id": "2",
+        "voice_name": "Tonio",
+        "voice_str": "3,7,2,&lt;prosody pitch=&quot;+75%&quot; rate=&quot;-15%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "M"
+      },
+      "Valentina": {
+        "engine_id": "2",
+        "language_id": "7",
+        "voice_id": "3",
+        "voice_name": "Valentina",
+        "voice_str": "Valentina",
+        "gender": "F"
+      }
+    }
+  },
+  "36": {
+    "language_id": 12,
+    "name": "Japanese",
+    "limit": 150,
+    "txt": "花瓶にさした赤い花をテーブルの上に置きます。",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/Japan.jpg",
+    "placeholder": "あなたのテキストを入力してください、そして私はそれを言います！",
+    "voices": {
+      "Haruka": {
+        "engine_id": "3",
+        "language_id": "12",
+        "voice_id": "6",
+        "voice_name": "Haruka",
+        "voice_str": "Haruka",
+        "gender": "F"
+      },
+      "Hikari": {
+        "engine_id": "3",
+        "language_id": "12",
+        "voice_id": "5",
+        "voice_name": "Hikari",
+        "voice_str": "Hikari",
+        "gender": "F"
+      },
+      "Himari": {
+        "engine_id": "7",
+        "language_id": "12",
+        "voice_id": "1",
+        "voice_name": "Himari",
+        "voice_str": "",
+        "gender": "F"
+      },
+      "Kaito": {
+        "engine_id": "7",
+        "language_id": "12",
+        "voice_id": "2",
+        "voice_name": "Kaito",
+        "voice_str": "ja-JP-Standard-C",
+        "gender": "M"
+      },
+      "Kyoko": {
+        "engine_id": "4",
+        "language_id": "12",
+        "voice_id": "1",
+        "voice_name": "Kyoko",
+        "voice_str": "Kyoko",
+        "gender": "F"
+      },
+      "Misaki": {
+        "engine_id": "3",
+        "language_id": "12",
+        "voice_id": "3",
+        "voice_name": "Misaki",
+        "voice_str": "Misaki",
+        "gender": "F"
+      },
+      "Ryo": {
+        "engine_id": "3",
+        "language_id": "12",
+        "voice_id": "7",
+        "voice_name": "Ryo",
+        "voice_str": "Ryo",
+        "gender": "M"
+      },
+      "Sayaka": {
+        "engine_id": "3",
+        "language_id": "12",
+        "voice_id": "4",
+        "voice_name": "Sayaka",
+        "voice_str": "Sayaka",
+        "gender": "F"
+      },
+      "Show": {
+        "engine_id": "3",
+        "language_id": "12",
+        "voice_id": "2",
+        "voice_name": "Show",
+        "voice_str": "Show",
+        "gender": "M"
+      },
+      "Takeru": {
+        "engine_id": "3",
+        "language_id": "12",
+        "voice_id": "8",
+        "voice_name": "Takeru",
+        "voice_str": "Takeru",
+        "gender": "M"
+      },
+      "Taro-kun": {
+        "engine_id": "8",
+        "language_id": "12",
+        "voice_id": "2",
+        "voice_name": "Taro-kun",
+        "voice_str": "7,12,2,&lt;prosody pitch=&quot;+37%&quot; rate=&quot;85%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "M"
+      },
+      "Yuki-chan": {
+        "engine_id": "8",
+        "language_id": "12",
+        "voice_id": "1",
+        "voice_name": "Yuki-chan",
+        "voice_str": "7,12,1,&lt;prosody pitch=&quot;+20%&quot; rate=&quot;85%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      }
+    }
+  },
+  "41": {
+    "language_id": 13,
+    "name": "Korean",
+    "limit": 600,
+    "txt": "저 들판에 깔린 콩깍지는 깐 콩깍지인가 안 깐 콩깍지인가?",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/SouthKorea.jpg",
+    "placeholder": "귀하의 텍스트를 입력하십시오 그리고 나는 그것을 말할 것이다!",
+    "voices": {
+      "Dayoung": {
+        "engine_id": "3",
+        "language_id": "13",
+        "voice_id": "7",
+        "voice_name": "Dayoung",
+        "voice_str": "Dayoung",
+        "gender": "F"
+      },
+      "Ha-yoon-ie": {
+        "engine_id": "8",
+        "language_id": "13",
+        "voice_id": "1",
+        "voice_name": "Ha-yoon-ie",
+        "voice_str": "3,13,1,&lt;prosody pitch=&quot;+45%&quot; rate=&quot;slow&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Hyeryun": {
+        "engine_id": "3",
+        "language_id": "13",
+        "voice_id": "4",
+        "voice_name": "Hyeryun",
+        "voice_str": "Hyeryun",
+        "gender": "F"
+      },
+      "Hyuna": {
+        "engine_id": "3",
+        "language_id": "13",
+        "voice_id": "8",
+        "voice_name": "Hyuna",
+        "voice_str": "Hyuna",
+        "gender": "F"
+      },
+      "Jihun": {
+        "engine_id": "3",
+        "language_id": "13",
+        "voice_id": "10",
+        "voice_name": "Jihun",
+        "voice_str": "Jihun",
+        "gender": "M"
+      },
+      "Jimin": {
+        "engine_id": "3",
+        "language_id": "13",
+        "voice_id": "5",
+        "voice_name": "Jimin",
+        "voice_str": "Jimin",
+        "gender": "F"
+      },
+      "Junwoo": {
+        "engine_id": "3",
+        "language_id": "13",
+        "voice_id": "2",
+        "voice_name": "Junwoo",
+        "voice_str": "Junwoo",
+        "gender": "M"
+      },
+      "Narae": {
+        "engine_id": "4",
+        "language_id": "13",
+        "voice_id": "1",
+        "voice_name": "Narae",
+        "voice_str": "Narae",
+        "gender": "F"
+      },
+      "Sang-hoon-ie": {
+        "engine_id": "8",
+        "language_id": "13",
+        "voice_id": "2",
+        "voice_name": "Sang-hoon-ie",
+        "voice_str": "3,13,2,&lt;prosody pitch=&quot;+100%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "M"
+      },
+      "Sena": {
+        "engine_id": "3",
+        "language_id": "13",
+        "voice_id": "6",
+        "voice_name": "Sena",
+        "voice_str": "Sena",
+        "gender": "F"
+      },
+      "Yumi": {
+        "engine_id": "3",
+        "language_id": "13",
+        "voice_id": "1",
+        "voice_name": "Yumi",
+        "voice_str": "Yumi",
+        "gender": "F"
+      },
+      "Yura": {
+        "engine_id": "3",
+        "language_id": "13",
+        "voice_id": "9",
+        "voice_name": "Yura",
+        "voice_str": "Yura",
+        "gender": "F"
+      }
+    }
+  },
+  "52": {
+    "language_id": 20,
+    "name": "Norwegian",
+    "limit": 600,
+    "txt": "Borte bra, hjemme best.",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/Norway.jpg",
+    "placeholder": "Vennligst skriv inn teksten din og jeg vil si det!",
+    "voices": {
+      "Dagrun": {
+        "engine_id": "7",
+        "language_id": "20",
+        "voice_id": "1",
+        "voice_name": "Dagrun",
+        "voice_str": "",
+        "gender": "F"
+      },
+      "Henrik": {
+        "engine_id": "2",
+        "language_id": "20",
+        "voice_id": "2",
+        "voice_name": "Henrik",
+        "voice_str": "Henrik",
+        "gender": "M"
+      },
+      "Kim": {
+        "engine_id": "8",
+        "language_id": "20",
+        "voice_id": "2",
+        "voice_name": "Kim",
+        "voice_str": "7,20,2,&lt;prosody pitch=&quot;+40%&quot; rate=&quot;80%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "M"
+      },
+      "Lars": {
+        "engine_id": "7",
+        "language_id": "20",
+        "voice_id": "2",
+        "voice_name": "Lars",
+        "voice_str": "",
+        "gender": "M"
+      },
+      "Nanne": {
+        "engine_id": "8",
+        "language_id": "20",
+        "voice_id": "1",
+        "voice_name": "Nanne",
+        "voice_str": "7,20,1,&lt;prosody pitch=&quot;+25%&quot; rate=&quot;80%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Stine": {
+        "engine_id": "4",
+        "language_id": "20",
+        "voice_id": "2",
+        "voice_name": "Stine",
+        "voice_str": "Stine",
+        "gender": "F"
+      },
+      "Vilde": {
+        "engine_id": "2",
+        "language_id": "20",
+        "voice_id": "1",
+        "voice_name": "Vilde",
+        "voice_str": "Vilde",
+        "gender": "F"
+      }
+    }
+  },
+  "56": {
+    "language_id": 14,
+    "name": "Polish",
+    "limit": 600,
+    "txt": "Gdzie drwa rąbią, tam wióry lecą",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/Poland.jpg",
+    "placeholder": "Wpisz swój tekst, a ja to powiem!",
+    "voices": {
+      "Agata": {
+        "engine_id": "4",
+        "language_id": "14",
+        "voice_id": "1",
+        "voice_name": "Agata",
+        "voice_str": "Agata",
+        "gender": "F"
+      },
+      "Danota": {
+        "engine_id": "7",
+        "language_id": "14",
+        "voice_id": "1",
+        "voice_name": "Danota",
+        "voice_str": "",
+        "gender": "F"
+      },
+      "Halka": {
+        "engine_id": "8",
+        "language_id": "14",
+        "voice_id": "1",
+        "voice_name": "Halka",
+        "voice_str": "7,14,1,&lt;prosody pitch=&quot;+45%&quot; rate=&quot;65%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Krzysztof": {
+        "engine_id": "2",
+        "language_id": "14",
+        "voice_id": "2",
+        "voice_name": "Krzysztof",
+        "voice_str": "Krzysztof",
+        "gender": "M"
+      },
+      "Wojciech": {
+        "engine_id": "7",
+        "language_id": "14",
+        "voice_id": "2",
+        "voice_name": "Wojciech",
+        "voice_str": "pl-PL-Standard-C",
+        "gender": "M"
+      },
+      "Zosia": {
+        "engine_id": "2",
+        "language_id": "14",
+        "voice_id": "1",
+        "voice_name": "Zosia",
+        "voice_str": "Zosia",
+        "gender": "F"
+      }
+    }
+  },
+  "57": {
+    "language_id": 6,
+    "name": "Portuguese",
+    "limit": 600,
+    "txt": "Gazeta publica hoje no jornal uma breve nota de faxina na quermesse",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/Portugal.jpg",
+    "placeholder": "Por favor digite seu texto e eu direi!",
+    "voices": {
+      "Ana (Brazilian)": {
+        "engine_id": "7",
+        "language_id": "6",
+        "voice_id": "1",
+        "voice_name": "Ana (Brazilian)",
+        "voice_str": "",
+        "gender": "F"
+      },
+      "Deia (Portugal)": {
+        "engine_id": "8",
+        "language_id": "6",
+        "voice_id": "1",
+        "voice_name": "Deia (Portugal)",
+        "voice_str": "7,6,3,&lt;prosody pitch=&quot;+20%&quot; rate=&quot;93%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Felipinho (Brazilian)": {
+        "engine_id": "8",
+        "language_id": "6",
+        "voice_id": "4",
+        "voice_name": "Felipinho (Brazilian)",
+        "voice_str": "3,6,2,&lt;prosody pitch=&quot;+95%&quot; rate=&quot;-20%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "M"
+      },
+      "Helena (Brazilian)": {
+        "engine_id": "3",
+        "language_id": "6",
+        "voice_id": "1",
+        "voice_name": "Helena (Brazilian)",
+        "voice_str": "Helena",
+        "gender": "F"
+      },
+      "Joana (European)": {
+        "engine_id": "4",
+        "language_id": "6",
+        "voice_id": "3",
+        "voice_name": "Joana (European)",
+        "voice_str": "Joana",
+        "gender": "F"
+      },
+      "Leonor (Portugal)": {
+        "engine_id": "7",
+        "language_id": "6",
+        "voice_id": "3",
+        "voice_name": "Leonor (Portugal)",
+        "voice_str": "",
+        "gender": "F"
+      },
+      "Nando (Portugal)": {
+        "engine_id": "8",
+        "language_id": "6",
+        "voice_id": "2",
+        "voice_name": "Nando (Portugal)",
+        "voice_str": "7,6,4,&lt;prosody pitch=&quot;+40%&quot; rate=&quot;85%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "M"
+      },
+      "Rafael (Brazilian)": {
+        "engine_id": "3",
+        "language_id": "6",
+        "voice_id": "2",
+        "voice_name": "Rafael (Brazilian)",
+        "voice_str": "Rafael",
+        "gender": "M"
+      },
+      "Raquel (Brazilian)": {
+        "engine_id": "4",
+        "language_id": "6",
+        "voice_id": "2",
+        "voice_name": "Raquel (Brazilian)",
+        "voice_str": "Raquel",
+        "gender": "F"
+      },
+      "Terezinha (Brazilian)": {
+        "engine_id": "8",
+        "language_id": "6",
+        "voice_id": "3",
+        "voice_name": "Terezinha (Brazilian)",
+        "voice_str": "7,6,1,&lt;prosody pitch=&quot;+20%&quot; rate=&quot;90%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Tiago (Portugal)": {
+        "engine_id": "7",
+        "language_id": "6",
+        "voice_id": "4",
+        "voice_name": "Tiago (Portugal)",
+        "voice_str": "",
+        "gender": "M"
+      }
+    }
+  },
+  "59": {
+    "language_id": 30,
+    "name": "Romanian",
+    "limit": 600,
+    "txt": "sunteți alergic la vreun medicament?",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/Romania.jpg",
+    "placeholder": "ntroduceți textul și o voi spune!",
+    "voices": {
+      "Ioana": {
+        "engine_id": "2",
+        "language_id": "30",
+        "voice_id": "1",
+        "voice_name": "Ioana",
+        "voice_str": "Ioana",
+        "gender": "F"
+      },
+      "Simona": {
+        "engine_id": "4",
+        "language_id": "30",
+        "voice_id": "1",
+        "voice_name": "Simona",
+        "voice_str": "Simona",
+        "gender": "F"
+      }
+    }
+  },
+  "60": {
+    "language_id": 21,
+    "name": "Russian",
+    "limit": 600,
+    "txt": "В гостях хорошо, а дома лучше",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/RussianFederation.jpg",
+    "placeholder": "Пожалуйста, введите свой текст, и я скажу это!",
+    "voices": {
+      "Dmitri": {
+        "engine_id": "2",
+        "language_id": "21",
+        "voice_id": "2",
+        "voice_name": "Dmitri",
+        "voice_str": "Dmitri",
+        "gender": "M"
+      },
+      "Milena": {
+        "engine_id": "4",
+        "language_id": "21",
+        "voice_id": "2",
+        "voice_name": "Milena",
+        "voice_str": "Milena",
+        "gender": "F"
+      },
+      "Olga": {
+        "engine_id": "2",
+        "language_id": "21",
+        "voice_id": "1",
+        "voice_name": "Olga",
+        "voice_str": "Olga",
+        "gender": "F"
+      }
+    }
+  },
+  "63": {
+    "language_id": 37,
+    "name": "Slovak",
+    "limit": 600,
+    "txt": "Všetky ludské bytosti sa rodia slobodné a rovnaké v dôstojnosti a právach. Sú obdarení rozumom a svedomím a mali by k sebe navzájom konat v duchu bratstva.",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/Slovakia.jpg",
+    "placeholder": "Enter text in Slovak",
+    "voices": {
+      "Eliska": {
+        "engine_id": "7",
+        "language_id": "37",
+        "voice_id": "1",
+        "voice_name": "Eliska",
+        "voice_str": "sk-SK-Standard-A",
+        "gender": "F"
+      },
+      "Nadeja": {
+        "engine_id": "4",
+        "language_id": "37",
+        "voice_id": "3",
+        "voice_name": "Nadeja",
+        "voice_str": "Laura",
+        "gender": "F"
+      }
+    }
+  },
+  "66": {
+    "language_id": 2,
+    "name": "Spanish",
+    "limit": 600,
+    "txt": "El veloz murciélago hindú comía feliz cardillo y kiwi. La cigüeña tocaba el saxofón detrás del palenque de paja.",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/Spain.jpg",
+    "placeholder": "Por favor escriba su texto en español y lo diré",
+    "voices": {
+      "Carlos (American)": {
+        "engine_id": "2",
+        "language_id": "2",
+        "voice_id": "7",
+        "voice_name": "Carlos (American)",
+        "voice_str": "Carlos",
+        "gender": "M"
+      },
+      "Carmen (Castilian)": {
+        "engine_id": "2",
+        "language_id": "2",
+        "voice_id": "1",
+        "voice_name": "Carmen (Castilian)",
+        "voice_str": "Carmen",
+        "gender": "F"
+      },
+      "Diego (Argentine)": {
+        "engine_id": "2",
+        "language_id": "2",
+        "voice_id": "4",
+        "voice_name": "Diego (Argentine)",
+        "voice_str": "Diego",
+        "gender": "M"
+      },
+      "Duardo": {
+        "engine_id": "4",
+        "language_id": "2",
+        "voice_id": "1",
+        "voice_name": "Duardo",
+        "voice_str": "Diego",
+        "gender": "M"
+      },
+      "Esperanza (Mexican)": {
+        "engine_id": "2",
+        "language_id": "2",
+        "voice_id": "5",
+        "voice_name": "Esperanza (Mexican)",
+        "voice_str": "Esperanza",
+        "gender": "F"
+      },
+      "Florita (Castilian)": {
+        "engine_id": "8",
+        "language_id": "2",
+        "voice_id": "1",
+        "voice_name": "Florita (Castilian)",
+        "voice_str": "3,2,4,&lt;prosody pitch=&quot;+90%&quot; rate=&quot;-15%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Francisca (Chilean)": {
+        "engine_id": "2",
+        "language_id": "2",
+        "voice_id": "3",
+        "voice_name": "Francisca (Chilean)",
+        "voice_str": "Francisca",
+        "gender": "F"
+      },
+      "Francisco (Mexican)": {
+        "engine_id": "3",
+        "language_id": "2",
+        "voice_id": "2",
+        "voice_name": "Francisco (Mexican)",
+        "voice_str": "Francisco",
+        "gender": "M"
+      },
+      "Gloria (Mexican)": {
+        "engine_id": "3",
+        "language_id": "2",
+        "voice_id": "3",
+        "voice_name": "Gloria (Mexican)",
+        "voice_str": "Gloria",
+        "gender": "F"
+      },
+      "Javier (Mexican)": {
+        "engine_id": "4",
+        "language_id": "2",
+        "voice_id": "5",
+        "voice_name": "Javier (Mexican)",
+        "voice_str": "Javier",
+        "gender": "M"
+      },
+      "Jorge (Castilian)": {
+        "engine_id": "2",
+        "language_id": "2",
+        "voice_id": "6",
+        "voice_name": "Jorge (Castilian)",
+        "voice_str": "Jorge",
+        "gender": "M"
+      },
+      "Juan (Castilian)": {
+        "engine_id": "2",
+        "language_id": "2",
+        "voice_id": "2",
+        "voice_name": "Juan (Castilian)",
+        "voice_str": "Juan",
+        "gender": "M"
+      },
+      "Juanito (Castilian)": {
+        "engine_id": "8",
+        "language_id": "2",
+        "voice_id": "2",
+        "voice_name": "Juanito (Castilian)",
+        "voice_str": "3,2,5,&lt;prosody pitch=&quot;+100%&quot; rate=&quot;-15%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "M"
+      },
+      "Leonor (Castilian)": {
+        "engine_id": "2",
+        "language_id": "2",
+        "voice_id": "9",
+        "voice_name": "Leonor (Castilian)",
+        "voice_str": "Leonor",
+        "gender": "F"
+      },
+      "Lola (Castilian)": {
+        "engine_id": "3",
+        "language_id": "2",
+        "voice_id": "4",
+        "voice_name": "Lola (Castilian)",
+        "voice_str": "Lola",
+        "gender": "F"
+      },
+      "Manuel (Castilian)": {
+        "engine_id": "3",
+        "language_id": "2",
+        "voice_id": "5",
+        "voice_name": "Manuel (Castilian)",
+        "voice_str": "Manuel",
+        "gender": "M"
+      },
+      "Miguelito (Mexican)": {
+        "engine_id": "8",
+        "language_id": "2",
+        "voice_id": "4",
+        "voice_name": "Miguelito (Mexican)",
+        "voice_str": "3,2,2,&lt;prosody pitch=&quot;+100%&quot; rate=&quot;-12%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "M"
+      },
+      "Monica": {
+        "engine_id": "4",
+        "language_id": "2",
+        "voice_id": "3",
+        "voice_name": "Monica",
+        "voice_str": "Monica",
+        "gender": "F"
+      },
+      "Paquita (Mexican)": {
+        "engine_id": "8",
+        "language_id": "2",
+        "voice_id": "3",
+        "voice_name": "Paquita (Mexican)",
+        "voice_str": "3,2,3,&lt;prosody pitch=&quot;+60%&quot; rate=&quot;-10%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Paulina (Mexican)": {
+        "engine_id": "4",
+        "language_id": "2",
+        "voice_id": "4",
+        "voice_name": "Paulina (Mexican)",
+        "voice_str": "Paulina",
+        "gender": "F"
+      },
+      "Soledad (American)": {
+        "engine_id": "2",
+        "language_id": "2",
+        "voice_id": "8",
+        "voice_name": "Soledad (American)",
+        "voice_str": "Soledad",
+        "gender": "F"
+      },
+      "Violeta (Mexican)": {
+        "engine_id": "3",
+        "language_id": "2",
+        "voice_id": "1",
+        "voice_name": "Violeta (Mexican)",
+        "voice_str": "Violeta",
+        "gender": "F"
+      },
+      "Ximena (American)": {
+        "engine_id": "2",
+        "language_id": "2",
+        "voice_id": "10",
+        "voice_name": "Ximena (American)",
+        "voice_str": "Ximena",
+        "gender": "F"
+      }
+    }
+  },
+  "69": {
+    "language_id": 9,
+    "name": "Swedish",
+    "limit": 600,
+    "txt": "Flygande bäckasiner söka hwila på mjuka tuvor",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/Sweden.jpg",
+    "placeholder": "Var vänlig skriv din text och jag säger det!",
+    "voices": {
+      "Alva": {
+        "engine_id": "4",
+        "language_id": "9",
+        "voice_id": "1",
+        "voice_name": "Alva",
+        "voice_str": "Alva",
+        "gender": "F"
+      },
+      "Annika": {
+        "engine_id": "2",
+        "language_id": "9",
+        "voice_id": "1",
+        "voice_name": "Annika",
+        "voice_str": "Annika",
+        "gender": "F"
+      },
+      "Astrid": {
+        "engine_id": "7",
+        "language_id": "9",
+        "voice_id": "1",
+        "voice_name": "Astrid",
+        "voice_str": "",
+        "gender": "F"
+      },
+      "Gustav": {
+        "engine_id": "7",
+        "language_id": "9",
+        "voice_id": "2",
+        "voice_name": "Gustav",
+        "voice_str": "",
+        "gender": "M"
+      },
+      "Kajsa": {
+        "engine_id": "8",
+        "language_id": "9",
+        "voice_id": "1",
+        "voice_name": "Kajsa",
+        "voice_str": "7,9,1,&lt;prosody pitch=&quot;+27%&quot; rate=&quot;82%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Oskar": {
+        "engine_id": "4",
+        "language_id": "9",
+        "voice_id": "3",
+        "voice_name": "Oskar",
+        "voice_str": "Oskar",
+        "gender": "M"
+      },
+      "Steffe": {
+        "engine_id": "8",
+        "language_id": "9",
+        "voice_id": "2",
+        "voice_name": "Steffe",
+        "voice_str": "7,9,2,&lt;prosody pitch=&quot;+30%&quot; rate=&quot;82%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "M"
+      },
+      "Sven": {
+        "engine_id": "2",
+        "language_id": "9",
+        "voice_id": "2",
+        "voice_name": "Sven",
+        "voice_str": "Sven",
+        "gender": "M"
+      }
+    }
+  },
+  "72": {
+    "language_id": 26,
+    "name": "Thai",
+    "limit": 600,
+    "txt": "มนุษย์ทุกคนเกิดมาโดยเสรีและเท่าเทียมกันในศักดิ์ศรีและสิทธิ พวกเขากอปรด้วยเหตุผลและมโนธรรมและควรปฏิบัติต่อกันด้วยจิตวิญญาณแห่งความเป็นพี่น้องกัน",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/Thailand.jpg",
+    "placeholder": "โปรดพิมพ์ข้อความของคุณแล้วฉันจะพูดมัน!",
+    "voices": {
+      "Ball": {
+        "engine_id": "8",
+        "language_id": "26",
+        "voice_id": "2",
+        "voice_name": "Ball",
+        "voice_str": "3,26,1,&lt;prosody pitch=&quot;165%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "M"
+      },
+      "Narisa": {
+        "engine_id": "4",
+        "language_id": "26",
+        "voice_id": "1",
+        "voice_name": "Narisa",
+        "voice_str": "Narisa",
+        "gender": "F"
+      },
+      "Nok": {
+        "engine_id": "8",
+        "language_id": "26",
+        "voice_id": "1",
+        "voice_name": "Nok",
+        "voice_str": "3,26,2,&lt;prosody pitch=&quot;145%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Sarawut": {
+        "engine_id": "3",
+        "language_id": "26",
+        "voice_id": "1",
+        "voice_name": "Sarawut",
+        "voice_str": "Sarawut",
+        "gender": "M"
+      },
+      "Somsi": {
+        "engine_id": "3",
+        "language_id": "26",
+        "voice_id": "2",
+        "voice_name": "Somsi",
+        "voice_str": "Somsi",
+        "gender": "F"
+      }
+    }
+  },
+  "73": {
+    "language_id": 16,
+    "name": "Turkish",
+    "limit": 600,
+    "txt": "Ağacı kurt, insanı dert yer.",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/Turkey.jpg",
+    "placeholder": "Lütfen metninizi yazın, ben de söyleyeceğim!",
+    "voices": {
+      "Alicigim": {
+        "engine_id": "8",
+        "language_id": "16",
+        "voice_id": "2",
+        "voice_name": "Alicigim",
+        "voice_str": "7,16,2,&lt;prosody pitch=&quot;+33%&quot; rate=&quot;85%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "M"
+      },
+      "Aylin": {
+        "engine_id": "4",
+        "language_id": "16",
+        "voice_id": "1",
+        "voice_name": "Aylin",
+        "voice_str": "Aylin",
+        "gender": "F"
+      },
+      "Eymen": {
+        "engine_id": "7",
+        "language_id": "16",
+        "voice_id": "2",
+        "voice_name": "Eymen",
+        "voice_str": "",
+        "gender": "M"
+      },
+      "Fatos": {
+        "engine_id": "8",
+        "language_id": "16",
+        "voice_id": "1",
+        "voice_name": "Fatos",
+        "voice_str": "7,16,1,&lt;prosody pitch=&quot;+30%&quot; rate=&quot;85%&quot;&gt;,&lt;/prosody&gt;",
+        "gender": "F"
+      },
+      "Kerem": {
+        "engine_id": "2",
+        "language_id": "16",
+        "voice_id": "1",
+        "voice_name": "Kerem",
+        "voice_str": "Kerem",
+        "gender": "M"
+      },
+      "Selin": {
+        "engine_id": "2",
+        "language_id": "16",
+        "voice_id": "3",
+        "voice_name": "Selin",
+        "voice_str": "Selin",
+        "gender": "F"
+      },
+      "Zehra": {
+        "engine_id": "7",
+        "language_id": "16",
+        "voice_id": "1",
+        "voice_name": "Zehra",
+        "voice_str": "",
+        "gender": "F"
+      },
+      "Zeynep": {
+        "engine_id": "2",
+        "language_id": "16",
+        "voice_id": "2",
+        "voice_name": "Zeynep",
+        "voice_str": "Zeynep",
+        "gender": "F"
+      }
+    }
+  },
+  "74": {
+    "language_id": 40,
+    "name": "Ukrainian",
+    "limit": 600,
+    "txt": "Усі люди народжуються вільними і рівними у гідності та правах. Вони наділені розумом і совістю і повинні діяти один проти одного в дусі братства.",
+    "flag": "//vhss.oddcast.com/ccs3/cache_fs/flags_32x23/JPEG/Ukraine.jpg",
+    "placeholder": "Enter text in Ukranian",
+    "voices": {
+      "Vira": {
+        "engine_id": "7",
+        "language_id": "40",
+        "voice_id": "1",
+        "voice_name": "Vira",
+        "voice_str": "uk-UA-Standard-A",
+        "gender": "F"
+      }
+    }
+  }
+}
