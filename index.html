@@ -204,6 +204,7 @@
         });
 
         document.getElementById('generateBtn').addEventListener('click', async () => {
+            this.classList.add('is-loading')
             const voiceName = document.getElementById('voiceSelect').value
             const text = document.getElementById('textInput').value
             const msg = document.getElementById('message')
@@ -234,12 +235,13 @@
                 msg.textContent = 'Error de conexión con el servidor.'
             }
         })
-
+    this.classList.remove('is-loading')
 });
     </script>
 </body>
 
 
 </html>
+
 
 
